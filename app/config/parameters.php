@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'prestashopbaru',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'IX3XE100RES9zdo59FW3VyKrvuFEdjObQpabyE3EDmZfe3A1RPOKhVWAjM51KkKf',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-09-05',
+    'locale' => 'id-ID',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'T6vz3f6D66MMBIHJdfFtX0ZeS4YBt1hLrFrzmRoy02C8Qr4Zw41wct0CLctwmUWv',
+    'cookie_iv' => 'gfpRORDSS0emSZIjFgpxwgfJ4LRR4rFy',
+    'new_cookie_key' => 'def000000769739fa7393fb536f4fac511e867a772f187843a5a112b5fa3200c55d7264ad66c66fe12edaebdd7e8119667246d2d1adc7029b5153a9e245b224cd1a07090',
+  ),
+);
